@@ -9,3 +9,5 @@ https://s4.radio.co/s778110174/listen
 http://ph-icecast-win.eradioportal.com:8000/radyo_natin
 #EXTINF:-1 tvg-id="DWLS" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ--ZFSvyaMFfTuK7-8teC_nS6STGCG00QbR6exlQ=s800-c-k-c0x00ffffff-no-rj-mo" group-title="PH Radio" tvg-name="Barangay LS Manila",Barangay LS Manila
 https://youtu.be/e5boKgDYEzs
+#EXTINF:-1 tvg-id="UNTV37MNL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/UNTV-Logo-2016.svg/2560px-UNTV-Logo-2016.svg.png" group-title="PH Television" tvg-name="UNTV TV-37 Manila",UNTV TV-37 Manila
+https://cdn.untvweb.com/live-stream/chunklist_b2592000.m3u8
