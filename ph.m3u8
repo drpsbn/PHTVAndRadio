@@ -5,6 +5,8 @@ https://s3.radio.co/sd43d6cc6d/listen
 https://s2.radio.co/sa85100da7/listen
 #EXTINF:-1 tvg-id="DWRK" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRICbkr8-1ppkxLb-jfbo9-7BekBlrpLZc3qVZU=s800-c-k-c0x00ffffff-no-rj-mo" group-title="PH Radio" tvg-name="Easy Rock Manila",Easy Rock Manila
 https://s4.radio.co/s778110174/listen
+#EXTINF:-1 tvg-id="DWLL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/Mellow_947.png" group-title="PH Television" tvg-name="Mellow 94.7 Manila",Mellow 94.7 Manila
+http://s3.free-shoutcast.com:18342/;
 #EXTINF:-1 tvg-id="RNMNL" tvg-logo="https://static.radyonatin.com/static/img/000/000/001/23.jpg" group-title="PH Radio" tvg-name="Radyo Natin",Radyo Natin
 http://ph-icecast-win.eradioportal.com:8000/radyo_natin
 #EXTINF:-1 tvg-id="DZBB-AM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/DZBB594.svg/2560px-DZBB594.svg.png" group-title="PH Radio" tvg-name="Super Radyo DZBB Manila",Super Radyo DZBB Manila
