@@ -5,9 +5,9 @@ https://s3.radio.co/sd43d6cc6d/listen
 https://loveradiocebu.radioca.st/;
 #EXTINF:-1 tvg-id="DXBM" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ17b4msy7qlLeBgp5c_g-yjJpB--DOhkgGxJ8KzlE=s800-c-k-c0x00ffffff-no-rj-mo" group-title="PH Radio" tvg-name="Love Radio Davao",Love Radio Davao
 https://loveradiodavao.radioca.st/;
-#EXTINF:-1 tvg-id="DWYS" tvg-logo="https://www.yesthebest.com.ph/wp-content/uploads/2016/01/yes-the-best-cebu.png" group-title="PH Radio" tvg-name="Yes The Best Manila",Yes The Best Manila
-https://s2.radio.co/sa85100da7/listen
-#EXTINF:-1 tvg-id="DYHR" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS6XLgZRe9zp4rXbtds2nkj99RD63ZpJsLvQNsfWDk=s800-c-k-c0x00ffffff-no-rj-mo" group-title="PH Radio" tvg-name="Yes The Best Cebu",Yes The Best Cebu
+#EXTINF:-1 tvg-id="DWYS" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS6XLgZRe9zp4rXbtds2nkj99RD63ZpJsLvQNsfWDk=s800-c-k-c0x00ffffff-no-rj-mo" group-title="PH Radio" tvg-name="Yes The Best Manila",Yes The Best Manila
+https://s2.radio.co/sa85100da7/listen 
+#EXTINF:-1 tvg-id="DYHR" tvg-logo="https://www.yesthebest.com.ph/wp-content/uploads/2016/01/yes-the-best-cebu.png" group-title="PH Radio" tvg-name="Yes The Best Cebu",Yes The Best Cebu
 https://yesfmcebu.radioca.st/;
 #EXTINF:-1 tvg-id="DWRK" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRICbkr8-1ppkxLb-jfbo9-7BekBlrpLZc3qVZU=s800-c-k-c0x00ffffff-no-rj-mo" group-title="PH Radio" tvg-name="Easy Rock Manila",Easy Rock Manila
 https://s4.radio.co/s778110174/listen
@@ -21,6 +21,8 @@ http://s3.free-shoutcast.com:18342/;
 https://www.youtube.com/watch?v=mWqsExDMZfk
 #EXTINF:-1 tvg-id="DWLS" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ--ZFSvyaMFfTuK7-8teC_nS6STGCG00QbR6exlQ=s800-c-k-c0x00ffffff-no-rj-mo" group-title="PH Radio" tvg-name="Barangay LS Manila",Barangay LS Manila
 https://youtu.be/e5boKgDYEzs
+#EXTINF:-1 tvg-id="DYRT" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ--ZFSvyaMFfTuK7-8teC_nS6STGCG00QbR6exlQ=s800-c-k-c0x00ffffff-no-rj-mo" group-title="PH Radio" tvg-name="Barangay RT Cebu",Barangay RT Cebu
+https://cast.amfmph.com:84/rtcebu?1630465109092
 #EXTINF:-1 tvg-id="DZMM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/TeleRadyo_Logo.svg/2560px-TeleRadyo_Logo.svg.png" group-title="PH Radio" tvg-name="ABS-CBN TeleRadyo",ABS-CBN TeleRadyo
 https://node-07.zeno.fm/mdrkm4npms8uv?rj-ttl=5&rj-tok=AAABe581WwMAzOAq4OevWsr2vA
 #EXTINF:-1 tvg-id="UNTV37MNL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/UNTV-Logo-2016.svg/2560px-UNTV-Logo-2016.svg.png" group-title="PH Television" tvg-name="UNTV TV-37 Manila",UNTV TV-37 Manila
