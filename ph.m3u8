@@ -1,0 +1,9 @@
+#EXTM3U @drpsbn https://github.com/drpsbn/PHTVAndRadio
+#EXTINF:-1 tvg-id="DZMB" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ17b4msy7qlLeBgp5c_g-yjJpB--DOhkgGxJ8KzlE=s800-c-k-c0x00ffffff-no-rj-mo" group-title="PH Radio" tvg-name="Love Radio Manila",Love Radio Manila
+https://s3.radio.co/sd43d6cc6d/listen
+#EXTINF:-1 tvg-id="DWYS" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS6XLgZRe9zp4rXbtds2nkj99RD63ZpJsLvQNsfWDk=800-c-k-c0x00ffffff-no-rj-mo" group-title="PH Radio" tvg-name="Yes The Best Manila",Yes The Best Manila
+https://s2.radio.co/sa85100da7/listen
+#EXTINF:-1 tvg-id="DWRK" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRICbkr8-1ppkxLb-jfbo9-7BekBlrpLZc3qVZU=800-c-k-c0x00ffffff-no-rj-mo" group-title="PH Radio" tvg-name="Easy Rock Manila",Easy Rock Manila
+https://s4.radio.co/s778110174/listen
+#EXTINF:-1 tvg-id="DWLS" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ--ZFSvyaMFfTuK7-8teC_nS6STGCG00QbR6exlQ=800-c-k-c0x00ffffff-no-rj-mo" group-title="PH Radio" tvg-name="Barangay LS Manila",Barangay LS Manila
+https://youtu.be/e5boKgDYEzs
