@@ -31,3 +31,5 @@ https://node-07.zeno.fm/mdrkm4npms8uv?rj-ttl=5&rj-tok=AAABe581WwMAzOAq4OevWsr2vA
 https://cdn.untvweb.com/live-stream/chunklist_b2592000.m3u8
 #EXTINF:-1 tvg-id="KOL" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQiLV4kTlkD05J9UQAxiH83neYKTxGmQI7oVmx0Rw=s800-c-k-c0x00ffffff-no-rj" group-title="PH Television" tvg-name="Kapamilya Online Live",Kapamilya Online Live
 https://www.youtube.com/watch?v=qN62LJ_Ni-8
+#EXTINF:-1 tvg-id="TEST" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQiLV4kTlkD05J9UQAxiH83neYKTxGmQI7oVmx0Rw=s800-c-k-c0x00ffffff-no-rj" group-title="PH Television" tvg-name="Test",Test
+https://tfciptv-lh.akamaihd.net/i/kapcha_1@342755/index_1000_av-p.m3u8?sd=10&b=100-1300&rebase=on&sd=10&b=100-1300&rebase=on&hdntl=exp=1630667830~acl=%2f*~data=hdntl~hmac=db9d33399a7aa983964f70feff9d43498557ba458a4b15cd31d2982a9f4139ed
